@@ -17,7 +17,6 @@ class AnimationViewController: UIViewController {
     //MARK: - Public Properties
     var animation = Animation.getAnimation()
     
-    
     override func viewDidLoad() {
         super.viewDidLoad()
         animationLabel.text = animation.description

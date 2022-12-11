@@ -22,7 +22,6 @@ curve: \(curve)
 force: \((force * 100).rounded() / 100)
 duration: \((duration * 100).rounded() / 100)
 delay: \((delay * 100).rounded() / 100)
-
 """
     }
 }
